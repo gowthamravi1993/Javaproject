@@ -11,5 +11,6 @@ public class Test5 {
 		System.out.println(6);
 		System.out.println(7);
 		System.out.println(8);
+  	system.out.println(10);
   }
 }
